@@ -26,3 +26,10 @@ git commit -m "mensagem do commit"
 git remote add origin endereço do ssh git
 git remote -v - para ver os repositorios remotos
 git push origin main - main pode varar pois é a branch
+
+
+Reset:
+git reset --hard aquiahash - apaga tuuuudo!
+git reset hash - é o reset soft, ainda posso selecionar oq eu quero
+https://www.youtube.com/watch?v=WNC2TdyeTrc - Pra saber mais
+git revert hash - cria um novo commit revertendo para o commit selecionado
