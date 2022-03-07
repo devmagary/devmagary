@@ -1,13 +1,15 @@
 # Olá! Eu sou Thauan Silva (devmagary), sou Históriador e amante de tecnologia.
 
 ## Sobre mim:
-Sou formado em Licenciatura em História, mas, o envolvimento com a tecnologia sempre esteve presente.
+:mortar_board: Sou formado em Licenciatura em História, mas, o envolvimento com a tecnologia sempre esteve presente.
 
-Fui designer, roteirista e desenvolvedor do jogo de RPG digital, ["Em busca da Terra sem Males"](https://www.rodahistorias.pro.br/post/terra-sem-males-jogo), utilizando o RPGMAKER MV. O jogo educacional que traz o protagonismo indigena no Brasil Colonial.
+:video_game: Fui designer, roteirista e desenvolvedor do jogo de RPG digital, ["Em busca da Terra sem Males"](https://www.rodahistorias.pro.br/post/terra-sem-males-jogo), utilizando o RPGMAKER MV. O jogo educacional que traz o protagonismo indigena no Brasil Colonial.<br> Este jogo foi meu trabalho final para conclusão de curso em Licenciatura em História.
+
+:man_technologist: Atualmente em transição para a area de Web-Developer.
 
 ## GitHub Analytics:
 
-<div align="center">
+<div align="left">
     <img height="145em" src="https://github-readme-stats.vercel.app/api?username=devmagary&count_private=true&show_icons=true&theme=dracula&custom_title=DevMagary&include_all_commits=true">
     <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmagary&theme=dracula&layout=compact">
 </div>
