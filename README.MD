@@ -5,7 +5,7 @@
 ## Projetos
 
 - [Minha primeira página usando HTML e CSS](https://github.com/devmagary/Estudos-Projetos/tree/main/android)
-- [Portifólio de Dante-Designer](https://github.com/devmagary/Estudos-Projetos/tree/main/dante-port)
+- [Portifólio de Dante-Designer](https://github.com/devmagary/Estudos-Projetos/tree/main/dante-port) (em produção)
 
 ## Lista de Tarefas
 
