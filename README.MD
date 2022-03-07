@@ -1,29 +1,16 @@
-# Estudos e Projetos Pessoais
+## Olá! Eu sou Thauan Silva (devmagary), sou Históriador e amante de tecnologia.
+<div align="center">
+    <a href="https://github.com/devmagary">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmagary&count_private=true&show_icons=true&theme=dracula&custom_title=DevMagary&include_all_commits=true">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmagary&theme=dracula&layout=compact">
+</div>
 
-#### Aqui irei deixar a minha rota de estudos, anotações e lista de tarefas em formato de checklist
+---
 
-## Projetos
+<div>
+    <a href="https://www.instagram.com/dev.magary" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <a href = "mailto:dev.magary@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-- [Minha primeira página usando HTML e CSS](https://github.com/devmagary/Estudos-Projetos/tree/main/android)
-- [Portifólio de Dante-Designer](https://github.com/devmagary/Estudos-Projetos/tree/main/dante-port) (em produção)
-
-## Lista de Tarefas
-
-- [x] Estudos sobre HTML e CSS - Básico
-- [x] Basico relacionado a Git e Github
-- [x] Basico de Markdown
-- [ ] Elaborar o meu Portifólio
-- [ ] Converter .txt para .md com as anotações
-- [ ] HTML e CSS - Posicionamento e Display Flex e Grid mais avançado
-- [ ] Terminar o portifólio de Dante
-- [x] Iniciar os estudos de JS
-- [ ] Aprender mais sobre o Git (:stuck_out_tongue_winking_eye:*eterno estudo?*:stuck_out_tongue_winking_eye:)
- 
-## Anotações
-
-- [Git](https://github.com/devmagary/Estudos-Projetos/blob/main/anotacoes/git.txt)
-- ~~Html~~ 
-- ~~CSS~~
-- ~~Markdown~~
-
+  ![Snake animation](https://github.com/devmagary/devmagary/blob/output/github-contribution-grid-snake.svg)
 
