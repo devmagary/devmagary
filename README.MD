@@ -22,7 +22,7 @@
 
 ![JS](https://img.shields.io/badge/JavaScript-e152aa?style=for-the-badge&logo=javascript&labelColor=1f004e)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devmagary&repo=estudos&theme=dracula&show_owner=devmagary)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devmagary&repo=estudos&theme=dracula&show_owner=devmagary)](https://github.com/devmagary/estudos)
 
 ## Contato:
 <div align="left">
