@@ -16,7 +16,7 @@
 - [ ] Converter .txt para .md com as anotações
 - [ ] HTML e CSS - Posicionamento e Display Flex e Grid mais avançado
 - [ ] Terminar o portifólio de Dante
-- [ ] Iniciar os estudos de JS
+- [x] Iniciar os estudos de JS
 - [ ] Aprender mais sobre o Git (:stuck_out_tongue_winking_eye:*eterno estudo?*:stuck_out_tongue_winking_eye:)
  
 ## Anotações
