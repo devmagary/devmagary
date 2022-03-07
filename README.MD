@@ -20,7 +20,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-e152aa?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=1f004e)&nbsp;&nbsp;&nbsp;
 ## Estudando:
 
-![JS](https://img.shields.io/badge/JavaScript-e152aa?style=for-the-badge&logo=javascript&logoColor=1572B6&labelColor=1f004e)
+![JS](https://img.shields.io/badge/JavaScript-e152aa?style=for-the-badge&logo=javascript&labelColor=1f004e)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devmagary&repo=estudos&theme=dracula&show_owner=devmagary)](https://github.com/anuraghazra/github-readme-stats)
 
