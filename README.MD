@@ -20,7 +20,7 @@ Fui designer, roteirista e desenvolvedor do jogo de RPG digital, ["Em busca da T
 
 ![JS](https://img.shields.io/badge/JavaScript-e152aa?style=for-the-badge&logo=javascript&logoColor=1572B6&labelColor=1f004e)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devmagary&repo=github-readme-stats&theme=dracula)](https://github.com/devmagary/estudos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devmagary&repo=estudos&theme=dracula&show_owner=devmagary)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contato:
 <div align="left">
