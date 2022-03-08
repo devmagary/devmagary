@@ -30,7 +30,8 @@
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-e152aa.svg?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=1f004e)&nbsp;&nbsp;&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-e152aa?style=for-the-badge&logo=node.js&labelColor=1f004e)&nbsp;&nbsp;&nbsp;
-![React Native](https://img.shields.io/badge/react_native-e152aa.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=1f004e)
+![React Native](https://img.shields.io/badge/react_native-e152aa.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=1f004e)&nbsp;&nbsp;&nbsp;
+![React Native](https://img.shields.io/badge/TypeScript-e152aa?style=for-the-badge&logo=typescript&labelColor=1f004e)&nbsp;&nbsp;&nbsp;
 
 ## Contato:
 <div align="left">
