@@ -36,5 +36,6 @@
 ## Contato:
 <div align="left">
     <a href="https://www.instagram.com/dev.magary" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">&nbsp;&nbsp;&nbsp;
-    <a href = "mailto:dev.magary@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:dev.magary@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;&nbsp;&nbsp;
+    <a href = "https://www.linkedin.com/in/devmagary/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">&nbsp;&nbsp;&nbsp;
 </div>
