@@ -25,9 +25,9 @@
 
 ## Estudando:
 ![MySQL](https://img.shields.io/badge/mysql-e152aa.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1f004e)&nbsp;&nbsp;&nbsp;
-![SpringBoot](https://img.shields.io/badge/springboot-e152aa.svg?style=for-the-badge&logo=springboot&logoColor=white&labelColor=1f004e)&nbsp;&nbsp;&nbsp;
+![SpringBoot](https://img.shields.io/badge/springboot-e152aa.svg?style=for-the-badge&logo=springboot&logoColor=6DB33F&labelColor=1f004e)&nbsp;&nbsp;&nbsp;
 
-![Figma](https://img.shields.io/badge/Figma-e152aa?style=for-the-badge&logo=figma&labelColor=1f004e)&nbsp;&nbsp;&nbsp;
+![Figma](https://img.shields.io/badge/Figma-e152aa?style=for-the-badge&logo=figma&labelColor=1f004e&logoColor=F24E1E)&nbsp;&nbsp;&nbsp;
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devmagary&repo=estudos&theme=dracula&show_owner=devmagary)](https://github.com/devmagary/estudos)
 
