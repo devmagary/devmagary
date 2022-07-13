@@ -19,16 +19,17 @@
 ![HTML](https://img.shields.io/badge/-HTML-e152aa?style=for-the-badge&logo=html5&labelColor=1f004e)&nbsp;&nbsp;&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-e152aa?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=1f004e)&nbsp;&nbsp;&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-e152aa?style=for-the-badge&logo=adobe%20photoshop&labelColor=1f004e)&nbsp;&nbsp;&nbsp;
+![JS](https://img.shields.io/badge/-JavaScript-e152aa?style=for-the-badge&logo=javascript&labelColor=1f004e)&nbsp;&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-e152aa.svg?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=1f004e)&nbsp;&nbsp;&nbsp;
 ## Estudando:
 
-![JS](https://img.shields.io/badge/-JavaScript-e152aa?style=for-the-badge&logo=javascript&labelColor=1f004e)&nbsp;&nbsp;&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-e152aa?style=for-the-badge&logo=figma&labelColor=1f004e)&nbsp;&nbsp;&nbsp;
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devmagary&repo=estudos&theme=dracula&show_owner=devmagary)](https://github.com/devmagary/estudos)
 
 ## Interesses:
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-e152aa.svg?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=1f004e)&nbsp;&nbsp;&nbsp;
+
 ![NodeJS](https://img.shields.io/badge/node.js-e152aa?style=for-the-badge&logo=node.js&labelColor=1f004e)&nbsp;&nbsp;&nbsp;
 ![React Native](https://img.shields.io/badge/react_native-e152aa.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=1f004e)&nbsp;&nbsp;&nbsp;
 ![React Native](https://img.shields.io/badge/TypeScript-e152aa?style=for-the-badge&logo=typescript&labelColor=1f004e)&nbsp;&nbsp;&nbsp;
